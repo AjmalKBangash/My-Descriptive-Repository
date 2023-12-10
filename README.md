@@ -24,7 +24,13 @@
    - Exploring cloud platforms for scalable and resilient architectures
 
 📈 **Key Achievements:**
-   - [Highlight any notable projects or achievements in your web development career]
+   - allikhwa Hospital Mangment System
+   - REST APIs
+   - CORS Concept
+   - Virualization
+   - Containerization
+   - Orchestration
+   - DevOps
 
 🌐 **Connect with Me:**
    - LinkedIn: https://www.linkedin.com/in/ajmal-khan-620356181/
