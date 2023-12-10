@@ -24,7 +24,7 @@
    - Exploring cloud platforms for scalable and resilient architectures
 
 📈 **Key Achievements:**
-   - allikhwa Hospital Mangment System
+   - allikhwa Hospital Management System
    - REST APIs
    - CORS Concept
    - Virualization
